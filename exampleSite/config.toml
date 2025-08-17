@@ -3,7 +3,7 @@ baseURL = "https://example.com"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
-math = True          # enable KaTeX (https://katex.org/) globally
+math = true          # enable KaTeX (https://katex.org/) globally
 
 [services]
   [services.googleAnalytics]
