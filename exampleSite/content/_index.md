@@ -4,7 +4,7 @@ title = "About"
 
 ## About Me
 
-{{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
+{{< figure class="avatar" src="/profile.png" alt="avatar">}}
 
 Hi there! I’m Hiwot Belay, a Ph.D. student at Harvard’s Data to Actionable Knowledge Lab, advised by Finale Doshi-Velez.
 
