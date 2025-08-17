@@ -19,7 +19,7 @@ jobs:
           hugo-version: '0.126.1'  # use the latest or stable version
 
       - name: Build site
-        run: hugo --minify
+        run: hugo --minify --source exampleSite
 
       - name: Add .nojekyll
         run: touch public/.nojekyll
