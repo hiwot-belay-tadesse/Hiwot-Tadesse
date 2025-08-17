@@ -1,4 +1,4 @@
-title = "Hiwot"
+title = "researcher"
 baseURL = "https://example.com"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
